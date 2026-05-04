@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-lfui8h.resultadofacil.com.br/sitemap.xml
